@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aww:home|Door43 (aww)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aww|d43-aww repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aww/archive/master.zip|d43-aww.zip]]
+
+**Recent Changes**
+{{changes>ns = aww}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aww|Ethnologue data]]
+
